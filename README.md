@@ -1,1 +1,1 @@
-# Employee_management_System_Application
+# Employee Management System (EMS) using Spring Boot and PostgreSQL
